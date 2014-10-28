@@ -73,6 +73,9 @@
  * @ingroup themeable
  */
 ?>
+
+  <?php print render($page['imagen_cabecera']); ?>
+  
 <header id="navbar" role="banner" class="<?php print $navbar_classes; ?>">
   <div class="container">
     <div class="navbar-header">
