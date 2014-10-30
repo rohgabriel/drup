@@ -2,9 +2,81 @@
  * This file should get overwritten if Method 1 is used. If Method 2 is chosen,
  * remove this comment and start adding your styles to this file.
  */
+ ul{
+ 	list-style-type: none;
+ }
 .region-imagen-cabecera {
 	text-align: center;
 	padding-bottom: 36px;
 	padding-top: 20px;
 	border-bottom: 7px solid #eb047c;
+	margin-left: 138px;
+	margin-right: 138px;
 }
+.links {
+	font-family: Arial;
+	font-size: 12px;
+	padding-right: 6px;
+	padding-left: 6px;
+}
+.region-header{
+	margin-left: 138px;
+	margin-right: 138px;
+}
+.region-logo{
+	margin-left: 138px;
+	margin-right: 138px;
+}
+#navbar{
+	width: 1130px;
+	margin-left: 80px;
+	padding-left: 0px;
+	padding-right: 0px;
+	border-color: #e7e7e7;
+}
+.navbar-collapse{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+.main-container{
+	margin-left:138px;
+}
+.col-sm-6{
+	width: 645px;
+}
+#first-time{
+	display: none;
+}
+#block-views-v1-block{
+	width: 300px;
+	float: left; 
+}
+#block-views-v1-block ul{
+	padding: 0px;
+}
+#block-views-v1-block-1{
+	width: 300px;
+	float: left;
+	padding-left: 30px;
+	font-family: Georgia;
+	font-size: 18px;
+	color: black; 
+}
+#block-views-v1-block-1 .views-row{
+	border-bottom: 1px dotted; 
+}
+#block-views-v1-block-1 .views-row .views-field-title a{
+	color: black;
+}
+#block-views-v1-block-1 ul{
+	padding: 0px;
+}
+.region-sidebar-second{
+width: 300px;
+float: left;
+}
+.region-sidebar-second ul{
+padding-left: 0px;
+padding-bottom: 20px;
+}
+
