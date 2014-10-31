@@ -2,8 +2,27 @@
  * This file should get overwritten if Method 1 is used. If Method 2 is chosen,
  * remove this comment and start adding your styles to this file.
  */
+ /*body {
+	background: #dbdbdb;
+	background-image: url(https://www.diariodemorelos.com/sites/default/files/images/fondo-rosa.jpg);
+ }*/
  ul{
  	list-style-type: none;
+	padding-left: 0px;
+ }
+ .main-container li{
+ 	border-bottom: 1px dotted;
+ 	padding-top: 10px; 
+ }
+ .row a{
+ 	color:black;
+ 	font-weight: bolder;
+ }
+ h2{
+ 	font-family: Georgia;
+	font-size: 19px;
+	color: black;
+	border-bottom: 1px dotted;
  }
 .region-imagen-cabecera {
 	text-align: center;
@@ -54,6 +73,10 @@
 #block-views-v1-block ul{
 	padding: 0px;
 }
+#block-views-v1-block a{
+	font-family: Georgia;
+	font-size: 30px; 
+}
 #block-views-v1-block-1{
 	width: 300px;
 	float: left;
@@ -71,6 +94,9 @@
 #block-views-v1-block-1 ul{
 	padding: 0px;
 }
+#block-views-v1-block-1 li{
+	height: 70px;
+}
 .region-sidebar-second{
 width: 300px;
 float: left;
@@ -80,3 +106,131 @@ padding-left: 0px;
 padding-bottom: 20px;
 }
 
+
+#block-views-v3-block{
+	clear: both;
+	width: 300px;
+	float: left;
+	border-bottom: 1px dotted;
+	padding-bottom: 10px;  
+}
+
+#block-views-v3-block-1{
+	width: 300px;
+	float: left;
+	padding-left: 30px;
+	border-bottom: 1px dotted;
+	padding-bottom: 10px; 	
+}
+
+
+
+/*PASION*/
+
+#block-views-v4-block{
+	clear: both;
+	width: 300px;
+	float: left; 
+}
+#block-views-v4-block .views-row{
+padding-left: 0px;
+padding-top: 10px;
+padding-bottom: 20px;
+border-bottom: 1px dotted; 
+}
+#block-views-v4-block-1{
+	width: 300px;
+	float: left;
+	padding-left: 30px;
+		
+}
+
+
+/* ENCUENTROS Y OPINION*/
+#block-views-v5-block{
+	clear: both;
+	width: 300px;
+	position: absolute;
+	margin-top: 950px;
+}
+#block-views-v5-block .views-row{
+padding-left: 0px;
+padding-top: 10px;
+padding-bottom: 20px;
+border-bottom: 1px dotted; 
+}
+#block-views-v5-block-1{
+	font-family: Georgia;
+	font-size: 18px;
+	color: black;
+	width: 300px;
+	float: right;
+	padding-left: 30px;		
+}
+/*SOS Y CIENCIA Y TEC */
+#block-views-v6-block{
+	clear: both;
+	width: 300px;
+	position: absolute;
+	margin-top: 1330px;
+}
+#block-views-v6-block .views-row{
+padding-left: 0px;
+padding-top: 10px;
+padding-bottom: 20px;
+border-bottom: 1px dotted; 
+}
+#block-views-v6-block-1{
+	clear: both;
+	width: 300px;
+	padding-left: 0px;
+	float: right;	
+}
+#block-views-v6-block-2{
+	clear: both;
+	width: 300px;
+	position: absolute;
+	margin-top: 1700px;
+}
+#block-views-v6-block-3{
+	clear: both;
+	width: 300px;
+	padding-left: 0px;
+	float: right;
+}
+/*NACIONAL Y PRODUCTOS*/
+#block-views-v7-block{
+	clear: both;
+	width: 300px;
+	position: absolute;
+	margin-top: 1925px;
+}
+#block-views-v7-block-1{
+	clear: both;
+	width: 300px;
+	padding-left: 0px;
+	float: right;	
+}
+#block-views-v7-block-2{
+	clear: both;
+	width: 300px;
+	position: absolute;
+	margin-top: 2230px;
+}
+#block-views-v7-block-3{
+	clear: both;
+	width: 300px;
+	padding-left: 0px;
+	float: right;	
+}
+#block-views-v7-block-4{
+	clear: both;
+	width: 300px;
+	position: absolute;
+	margin-top: 2460px;
+}
+.footer{
+	padding: 0px;
+	margin-top: 0px;
+	margin-left: 138px;
+}
