@@ -6,6 +6,9 @@
 	background: #dbdbdb;
 	background-image: url(https://www.diariodemorelos.com/sites/default/files/images/fondo-rosa.jpg);
  }*/
+
+
+ /*
  ul{
  	list-style-type: none;
 	padding-left: 0px;
@@ -123,10 +126,10 @@ padding-bottom: 20px;
 	padding-bottom: 10px; 	
 }
 
-
+*/
 
 /*PASION*/
-
+/*
 #block-views-v4-block{
 	clear: both;
 	width: 300px;
@@ -144,9 +147,10 @@ border-bottom: 1px dotted;
 	padding-left: 30px;
 		
 }
-
+*/
 
 /* ENCUENTROS Y OPINION*/
+/*
 #block-views-v5-block{
 	clear: both;
 	width: 300px;
@@ -167,7 +171,9 @@ border-bottom: 1px dotted;
 	float: right;
 	padding-left: 30px;		
 }
+*/
 /*SOS Y CIENCIA Y TEC */
+/*
 #block-views-v6-block{
 	clear: both;
 	width: 300px;
@@ -198,7 +204,9 @@ border-bottom: 1px dotted;
 	padding-left: 0px;
 	float: right;
 }
+*/
 /*NACIONAL Y PRODUCTOS*/
+/*
 #block-views-v7-block{
 	clear: both;
 	width: 300px;
@@ -230,6 +238,199 @@ border-bottom: 1px dotted;
 	margin-top: 2460px;
 }
 .footer{
+	padding: 0px;
+	margin-top: 0px;
+	margin-left: 138px;
+}
+*/
+/* --------------------------------------------------------------------------------------------*/
+
+
+
+
+
+
+ul{
+ 	list-style-type: none;
+	padding-left: 0px;
+ }
+ .main-container li{
+ 	border-bottom: 1px dotted;
+ 	padding-top: 10px; 
+ }
+ .row a{
+ 	color:black;
+ 	font-weight: bolder;
+ }
+ h2{
+ 	font-family: Georgia;
+	font-size: 19px;
+	color: black;
+	border-bottom: 1px dotted;
+ }
+.region-imagen-cabecera {
+	text-align: center;
+	padding-bottom: 36px;
+	padding-top: 20px;
+	border-bottom: 7px solid #eb047c;
+	margin-left: 138px;
+	margin-right: 138px;
+}
+.links {
+	font-family: Arial;
+	font-size: 12px;
+	padding-right: 6px;
+	padding-left: 6px;
+}
+.region-header{
+	margin-left: 138px;
+	margin-right: 138px;
+}
+.region-logo{
+	margin-left: 138px;
+	margin-right: 138px;
+}
+#navbar{
+	width: 1130px;
+	margin-left: 80px;
+	padding-left: 0px;
+	padding-right: 0px;
+	border-color: #e7e7e7;
+}
+.navbar-collapse{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+.main-container{
+	margin-left:138px;
+}
+.col-sm-6{
+	width: 645px;
+}
+#first-time{
+	display: none;
+}
+/* PANEL*/
+.col-sm-9{
+
+	width:990px;
+
+}
+.pane-views-v1-block{
+	width: 300px;
+	float: left; 
+}
+.pane-views-v1-block ul{
+	padding: 0px;
+}
+.pane-views-v1-block a{
+	font-family: Georgia;
+	font-size: 30px; 
+}
+.pane-views-v1-block-1{
+	width: 300px;
+	float: left;
+	padding-left: 30px;
+	font-family: Georgia;
+	font-size: 18px;
+	color: black; 
+}
+.pane-views-v1-block-1 .views-row{
+	border-bottom: 1px dotted; 
+}
+.pane-views-v1-block-1 .views-row .views-field-title a{
+	color: black;
+}
+.pane-views-v1-block-1 ul{
+	padding: 0px;
+}
+.pane-views-v1-block-1 li{
+	height: 70px;
+}
+.region-sidebar-second{
+width: 300px;
+float: left;
+}
+.region-sidebar-second ul{
+padding-left: 0px;
+padding-bottom: 20px;
+}
+/*---3---*/
+.pane-views-v3-block{
+	clear: both;
+	width: 300px;
+	float: left;
+	border-bottom: 1px dotted;
+	padding-bottom: 10px;  
+}
+
+.pane-views-v3-block-1{
+	width: 300px;
+	float: left;
+	padding-left: 30px;
+	border-bottom: 1px dotted;
+	padding-bottom: 10px; 	
+}
+/*DDM TELEVISION*/
+
+.pane-views-v4-block{
+	clear: both;
+	width: 300px;
+	float: left; 
+}
+.pane-views-v4-block .views-row{
+padding-left: 0px;
+padding-top: 10px;
+padding-bottom: 20px;
+border-bottom: 1px dotted; 
+}
+.pane-views-v4-block-1{
+	width: 300px;
+	float: left;
+	padding-left: 30px;		
+}
+/* 2 */
+.pane-views-v2-block{
+	/*clear: both;*/
+	width: 285px;
+	padding-bottom: 10px;  
+	float: top;
+	padding-left: 15px;
+	overflow: hidden;
+}
+.pane-views-v2-block-1{
+	/*clear: both;*/
+	width: 285px;
+	padding-bottom: 10px;  
+	float: top;
+	padding-left: 15px;
+	overflow: hidden;
+}
+.pane-views-v2-block-2{
+	/*clear: both;*/
+	width: 285px;
+	padding-bottom: 10px;  
+	float: top;
+	padding-left: 15px;
+	overflow: hidden;
+}
+.pane-views-v5-block{
+	clear: both;
+	width: 300px;
+	float: top;
+
+	
+}
+.panel-separator{
+	margin: 0px;
+	width: 0px;
+}
+
+
+
+
+.footer{
+	clear: both;
 	padding: 0px;
 	margin-top: 0px;
 	margin-left: 138px;
