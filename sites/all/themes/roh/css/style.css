@@ -356,6 +356,7 @@ padding-left: 0px;
 padding-bottom: 20px;
 }
 /*---3---*/
+
 .pane-views-v3-block{
 	clear: both;
 	width: 300px;
@@ -363,18 +364,10 @@ padding-bottom: 20px;
 	border-bottom: 1px dotted;
 	padding-bottom: 10px;  
 }
-
-.pane-views-v3-block-1{
-	width: 300px;
-	float: left;
-	padding-left: 30px;
-	border-bottom: 1px dotted;
-	padding-bottom: 10px; 	
-}
 /*DDM TELEVISION*/
 
 .pane-views-v4-block{
-	clear: both;
+	
 	width: 300px;
 	float: left; 
 }
@@ -384,51 +377,85 @@ padding-top: 10px;
 padding-bottom: 20px;
 border-bottom: 1px dotted; 
 }
+
 .pane-views-v4-block-1{
 	width: 300px;
-	float: left;
+	float: right;
 	padding-left: 30px;		
 }
-/* 2 */
-.pane-views-v2-block{
-	/*clear: both;*/
-	width: 285px;
-	padding-bottom: 10px;  
-	float: top;
-	padding-left: 15px;
-	overflow: hidden;
-}
-.pane-views-v2-block-1{
-	/*clear: both;*/
-	width: 285px;
-	padding-bottom: 10px;  
-	float: top;
-	padding-left: 15px;
-	overflow: hidden;
-}
-.pane-views-v2-block-2{
-	/*clear: both;*/
-	width: 285px;
-	padding-bottom: 10px;  
-	float: top;
-	padding-left: 15px;
-	overflow: hidden;
-}
+/* ENCUENTROS Y OPINION*/
 .pane-views-v5-block{
-	clear: both;
 	width: 300px;
-	float: top;
-
+	float: left;
+}
+.pane-views-v5-block .views-row{
+	padding-left: 0px;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	border-bottom: 1px dotted; 
+}
+.pane-views-v5-block-1{
+	font-family: Georgia;
+	font-size: 18px;
+	color: black;
+	width: 300px;
+	float: right;
+	padding-left: 30px;		
+}
+/*SOS Y CIENCIA Y TEC */
+.pane-views-v6-block{
+	float: left;
+	width: 300px;
+}
+.pane-views-v6-block .views-row{
+padding-left: 0px;
+padding-top: 10px;
+padding-bottom: 20px;
+border-bottom: 1px dotted; 
+}
+.pane-views-v6-block-1{
+	width: 300px;
+	padding-left: 30px;
+	float: right;	
+}
+.pane-views-v6-block-2{
+	width: 300px;
+	float: left;
+}
+.pane-views-v6-block-3{
+	width: 300px;
+	padding-left: 30px;
+	float: right;
 	
 }
-.panel-separator{
-	margin: 0px;
-	width: 0px;
+/*NACIONAL Y PRODUCTOS*/
+.pane-views-v7-block{
+	float: left;
+	width: 300px;
+
+}
+.pane-views-v7-block-1{
+	width: 300px;
+	padding-left: 30px;
+	float: right;	
+}
+.pane-views-v7-block-2{
+	width: 300px;
+	float: left;
+}
+.pane-views-v7-block-3{
+	width: 300px;
+	padding-left: 30px;
+	float: right;	
+}
+.pane-views-v7-block-4{
+	width: 300px;
+	clear: both;
+	float: left;
+
 }
 
-
-
-
+/*pata*/
 .footer{
 	clear: both;
 	padding: 0px;
